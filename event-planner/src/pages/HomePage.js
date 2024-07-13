@@ -6,7 +6,13 @@ const HomePage = ({ events }) => {
       <div className="bg-white dark:bg-gray-800 rounded-lg shadow p-6 mb-8">
         <h2 className="text-3xl font-bold mb-4 text-gray-900 dark:text-gray-200">Welcome to Event Planner</h2>
         <p className="text-gray-700 dark:text-gray-300 mb-4">
-          Your one-stop solution for all event planning needs. Discover upcoming events, create your own, and manage everything seamlessly.
+        Welcome to Our Event Planner! Planning an event can be overwhelming, but with [Your Event Planner's Name], it's a breeze! Whether you're organizing a corporate conference, a wedding, a birthday party, or any other special occasion, we’re here to help you every step of the way.
+        Why Choose Us?
+        Easy Event Management: Our intuitive platform lets you create, manage, and track your events with ease.
+        Customizable Options: Tailor every aspect of your event to fit your unique needs, from venue selection to guest lists.
+        Expert Support: Get access to professional advice and tips to make your event unforgettable.
+        Explore our features, from automated reminders to interactive guest management, and start planning your next event with confidence.
+        Ready to get started? Sign up and take the first step toward a flawless event!
         </p>
       </div>
       
